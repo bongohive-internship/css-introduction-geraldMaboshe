@@ -1,0 +1,36 @@
+.main{
+    box-shadow: 10px 10px grey;
+}
+.one{
+    width: 200px;
+    margin-top: 20px;
+    margin-left:50px;
+    float: left;
+    box-shadow: 10px 10px grey;
+
+}
+.two{
+    width:200px;
+    margin-left:50px;
+    float: right;
+    margin-top: 20px;
+    box-shadow: 10px 10px grey;
+}
+.three{
+    width: 200px;
+    margin-top: 20px;
+    margin-left:50px;
+    float: left;
+
+}
+.four{
+    width:200px;
+    margin-left:50px;
+    float: right;
+    margin-top: 20px;
+
+}
+a:hover {
+   box-shadow: 5px 5px red;
+
+}
